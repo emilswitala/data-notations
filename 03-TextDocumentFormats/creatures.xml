@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <creatures>
-    <creature name="Phoenix" habitat="Mountains" lifespan="immortal>
+    <creature name="Phoenix" habitat="Mountains" lifespan="immortal">
         <description>A mythical bird that regenerates or is reborn from its ashes.</description>
         <powers>
             <power>Rebirth</power>
-            <power>Fire control<power>
+            <power>Fire control</power>
         </powers>
-    </creature>
+    <creature>
     <creature name="Dragon" habitat="Caves" lifespan="unknown">
         <description>A powerful creature that can breathe fire and fly
         <powers>

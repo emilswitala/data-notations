@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meansOfTransport>
+    <bus type="pulic" city="cracow">
+        <line>501</line>
+        <timeOfarrival>6:25</timeOfarrival>
+        <sidecode>mm878</sidecode>
+        <vibes>regular</vibes>
+    </bus>
+    <tram type="public" city="cracow">
+        <line>9</line>
+        <timeOfarrival>`5:43</timeOfarrival>
+        <sidecode>bn654</sidecode>
+        <vibes>mid-regular</vibes>
+    </tram>
+    <wsiobus type="private" cites+"cracowanddobczyce">
+        <name>darbus</name>
+        <timeOfarrival>whenever</timeOfarrival>
+        <perks>peace and turbulence</perks>
+        <vibes>immaculate</vibes>
+    </wsiobus>
+</meansOfTransport>
